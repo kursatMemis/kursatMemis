@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kürşat MEMİŞ</h1>
-<h3 align="left">I am a computer engineering student at Uludağ University in Turkey, Kotlin - Mobile developer.</h3>
+<h3 align="left">I am a computer engineering student at Uludağ University in Turkey, <b>Kotlin - Mobile developer</b>.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
